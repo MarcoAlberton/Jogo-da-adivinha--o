@@ -84,11 +84,11 @@ p{
 }
 
 #jogo{
-    text-align: center;
+    text-align: justify;
 }
 
-#dicas, #tentativas, #resultado{
-    text-align: left;
+#dicas, #mensagem{
+    text-align: center;
     color: rgb(0, 0, 0);
 }
 
